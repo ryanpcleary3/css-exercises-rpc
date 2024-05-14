@@ -7,3 +7,13 @@
     color: hsl(220, 100%, 50%);
     font-size: 36px;
 }
+
+#third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(110,100%,90%);
+    font-size: 24px;
+    font-weight: bold;
+}
